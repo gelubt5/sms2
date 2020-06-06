@@ -7,13 +7,10 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-sms-receive": {
-      "PACKAGE_NAME": "com.gelu.sms"
-    },
     "cordova-plugin-battery-status": {
       "PACKAGE_NAME": "com.gelu.sms"
     },
-    "cordova-plugin-media-capture": {
+    "cordova-plugin-camera": {
       "PACKAGE_NAME": "com.gelu.sms"
     },
     "cordova-plugin-device": {
@@ -31,7 +28,13 @@
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "com.gelu.sms"
     },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.gelu.sms"
+    },
     "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.gelu.sms"
+    },
+    "cordova-plugin-sms-receive": {
       "PACKAGE_NAME": "com.gelu.sms"
     },
     "cordova-plugin-vibration": {

@@ -24,13 +24,15 @@
       "cordova-plugin-globalization": {},
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-network-information": {},
-      "cordova-plugin-vibration": {}
+      "cordova-plugin-vibration": {},
+      "cordova-plugin-sms-receive": {}
     },
     "platforms": [
       "android"
     ]
   },
   "dependencies": {
+    "cordova-android": "^8.1.0",
     "cordova-plugin-compat": "^1.2.0"
   }
 }
